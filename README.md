@@ -30,6 +30,7 @@ This program does not, and will probably never, support sound on operating syste
  6) Follow the prompts that appear in the console.
  
  Notes: Installing Java Media Framework (JMF)
+ 
  To use this code, the host machine must have JMF installed. 
  The cross-platform version of JMF works on any client that can run Java. 
  To install this version, link jmf.jar from the JMFAll cross-platform library.
