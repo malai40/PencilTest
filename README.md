@@ -2,6 +2,7 @@
 Program to compile drawings into a movie to preview hand-drawn animations, i.e. a "pencil test".
 
  Title: Pencil Test v.0.1.0
+ 
  Author: malai40
  License: GNU GENERAL PUBLIC LICENSE V3
  Description:
