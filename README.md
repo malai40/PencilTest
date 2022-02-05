@@ -1,21 +1,25 @@
 # PencilTest
 Program to compile drawings into a movie to preview hand-drawn animations, i.e. a "pencil test".
 
- Title: Pencil Test v.0.1.0
+Title: Pencil Test v.0.1.0
  
- Author: malai40
- License: GNU GENERAL PUBLIC LICENSE V3
- Description:
- 	Pencil Test is a program that compiles drawings into an animated movie to 
- 	preview an animation, known as a pencil test. 
- 	
- 	The program is still in development, and as such should not yet be considered stable. Make backups of any input images before using this program.
- 	
- 	This program is intended for previewing animations before re-creating them in more robust video editing programs for final products. Results when using videos created with this program as final movies cannot be guaranteed.
+Author: malai40
  
- 	This program does not currently support sound. The expectation is that the movie file created will be loaded in to a more robust video editing program if it needs to be paired with sound. 
-	Future versions of this program may include sound capability on operating systems for which the Java Media Framework (JMF) supports sound, such as Windows and Solaris SPARC.
- 	This program does not, and will probably never, support sound on operating systems for which JMF does not support sound, such as Linux, macOS, and NetBeans. 
+License: GNU GENERAL PUBLIC LICENSE V3
+ 
+Description:
+Pencil Test is a program that compiles drawings into an animated movie to 
+preview an animation, known as a pencil test. 
+ 	
+The program is still in development, and as such should not yet be considered stable. Make backups of any input images before using this program.
+ 	
+This program is intended for previewing animations before re-creating them in more robust video editing programs for final products. Results when using videos created with this program as final movies cannot be guaranteed.
+ 
+This program does not currently support sound. The expectation is that the movie file created will be loaded in to a more robust video editing program if it needs to be paired with sound. 
+
+Future versions of this program may include sound capability on operating systems for which the Java Media Framework (JMF) supports sound, such as Windows and Solaris SPARC.
+ 
+This program does not, and will probably never, support sound on operating systems for which JMF does not support sound, such as Linux, macOS, and NetBeans. 
  
  Pencil Test Installation Instructions
  1) Clone repo to a local folder
